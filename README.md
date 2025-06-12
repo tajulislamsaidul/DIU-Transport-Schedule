@@ -36,10 +36,7 @@ A user-friendly desktop application built with Python and Tkinter to **view, man
 
 ![Image](https://github.com/user-attachments/assets/a773a498-bba7-4f52-a4d8-0fa068d4dc25)
 
-Watch the full video tutorial to get started and explore all features:
-
-
-*Click the image above to watch on DEMO video.*
+Watch the full video tutorial to get started and explore all features
 
 ---
 
