@@ -10,6 +10,7 @@ from reportlab.lib import colors
 from io import BytesIO
 from PIL import Image as PILImage
 import requests
+
 current_theme = 'light'
 light_theme = {
     'bg': '#f0f2f5',
