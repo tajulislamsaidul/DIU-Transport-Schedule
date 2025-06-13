@@ -26,7 +26,7 @@ A user-friendly desktop application built with Python and Tkinter to **view, man
 
 ---
 
-##  Demo
+## 🖼️ Demo
 
  ![Image Alt](https://github.com/tajulislamsaidul/DIU-Transport-Schedule/blob/67b1e9ecd17953270d9caf771fdcbc5f07c73044/DEMO/2.png)
 
