@@ -318,7 +318,6 @@ ttk.Button(frame, text="Clear Favorites", command=clear_favorites).grid(row=6, c
 
 toggle_btn = ttk.Button(frame, text='✡ Dark Mode', command=toggle_theme_with_fade)
 toggle_btn.grid(row=7, column=1, pady=20)
-
 frame.columnconfigure(1, weight=1)
 favorite_routes = []
 apply_theme(light_theme)
