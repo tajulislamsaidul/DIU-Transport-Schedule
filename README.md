@@ -1,11 +1,6 @@
-
----
-
 # 🚍 DIU Transport Schedule Viewer 🗓️
 
-A user-friendly desktop application built with Python and Tkinter to **view, manage, and export** transport route schedules for DIU (Daffodil International University). Easily load transport schedules from Excel, browse routes, save favorites, and export route details to PDF.
-
----
+A user friendly desktop application built with Python and Tkinter to **view, manage, and export** transport route schedules for DIU (Daffodil International University). Easily load transport schedules from Excel, browse routes, save favorites, and export route details to PDF.
 
 ## ✨ Features
 
@@ -24,21 +19,16 @@ A user-friendly desktop application built with Python and Tkinter to **view, man
 * 🌗 **Light & Dark Theme**
   Toggle UI themes with a smooth fade effect for comfortable viewing day or night.
 
----
-
 ## 🖼️ Demo
 
  ![Image Alt](https://github.com/tajulislamsaidul/DIU-Transport-Schedule/blob/67b1e9ecd17953270d9caf771fdcbc5f07c73044/DEMO/2.png)
 
----
 
 ## 📹 Video Walkthrough
 
 ![Image](https://github.com/user-attachments/assets/a773a498-bba7-4f52-a4d8-0fa068d4dc25)
 
 Watch the full video tutorial to get started and explore all features
-
----
 
 ## ⚙️ Installation
 
@@ -55,8 +45,6 @@ Watch the full video tutorial to get started and explore all features
    ```bash
    pip install pandas reportlab pillow requests
    ```
-
----
 
 ## ▶️ Usage
 
@@ -78,14 +66,11 @@ Watch the full video tutorial to get started and explore all features
 
 7. Toggle Light/Dark mode with the theme button.
 
----
 
 ## 📝 Excel File Format
 
 * Should contain a sheet with route data including columns: Route No, Route Name, Route Details, Start Times, Departure Times, and optionally Route Map URLs.
 * The app auto-detects the appropriate sheet and data start row.
-
----
 
 ## 📦 Dependencies
 
@@ -95,13 +80,9 @@ Watch the full video tutorial to get started and explore all features
 * `Pillow` — image processing
 * `requests` — fetching map images
 
----
-
 ## 🤝 Contributing
 
 Contributions welcome! Feel free to open issues or submit pull requests to improve the app.
-
----
 
 ## 📬 Contact
 
@@ -113,9 +94,4 @@ Feel free to reach out for questions, suggestions, or collaboration:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-View_Profile-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/md-tajul-islam-saidul-86b2bb348?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 
-
----
-
 Thank you for using the **DIU Transport Schedule Viewer**! 🚍📅
-
----
